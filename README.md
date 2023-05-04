@@ -3,9 +3,9 @@
 
 - 🎓 Holder of **B.Ed of Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://tulloch.nicepage.io](https://tulloch.nicepage.io)
+- 👨‍💻 All of my projects are available at [https://jtull.dev](https://jtull.dev)
 
-- 📄 Know about my experiences [https://tulloch.nicepage.io/resume](https://tulloch.nicepage.io/resume)
+- 📄 Know about my experiences [https://jtull.dev/resume](https://jtull.dev/resume)
 
 - ⚡ Fun fact **I start my coding curiosity in Primary School and love programming hence is self taught**
 
